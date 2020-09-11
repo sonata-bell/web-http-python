@@ -1,0 +1,22 @@
+{
+  "name": "web-http-python",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonata-bell/web-http-python.git"
+  },
+  "author": "T2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonata-bell/web-http-python/issues"
+  },
+  "homepage": "https://github.com/sonata-bell/web-http-python#readme",
+  "dependencies": {
+    "iconv-lite": "^0.6.2"
+  }
+}
