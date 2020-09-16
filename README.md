@@ -1,4 +1,4 @@
-# Web Browser - HTTP - Python(or Python HTTP REST(POST)) POC
+# Web - HTTP - Python(or Python HTTP REST) POC
 
 ## 1. 웹 브라우저 사용법
 
