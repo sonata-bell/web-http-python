@@ -1,8 +1,8 @@
 # Web-Http-Python(or Python Http) POC
 
-## - 웹 브라우저 사용 방법
+## 1. 웹 브라우저 사용법
 
-1. Node.js 설치
+1. Node.js 설치(https://nodejs.org/ko/)
 
 2. 소스 코드 다운로드
 
@@ -18,7 +18,7 @@
 
 8. 데이터 입력 및 데이터 출력 확인
 
-## - 파이썬 Http 사용법
+## 2. 파이썬 HTTP REST(POST) 사용법
 
 1. 웹 브라우저 사용 방법 1 ~ 7번 실행 순서 동일
 
